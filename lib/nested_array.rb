@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  matrix = [
+  storage_room = [
     CONVENTIONAL_PRODUCE = ["Grapefruit","Pineapple", "Oranges", "Watermelon","Eggplant"]
     ORGANIC_PRODUCE = ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
     ]
